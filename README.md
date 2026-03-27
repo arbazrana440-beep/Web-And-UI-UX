@@ -1,6 +1,6 @@
-# Ragesh — UI/UX Designer Portfolio
+# Arbaaz — UI/UX Designer Portfolio
 
-A premium, high-performance portfolio website built for **Ragesh**, a professional UI/UX & Product Designer. This project showcases a deep commitment to craft, user-centered design, and technical excellence through modern web technologies.
+A premium, high-performance portfolio website built for **Arbaaz**, a professional UI/UX & Product Designer. This project showcases a deep commitment to craft, user-centered design, and technical excellence through modern web technologies.
 
 ## ✨ Key Features
 
@@ -67,4 +67,4 @@ This portfolio reflects a design approach where **every pixel has a purpose**. I
 - **Music Player**: Reimagined streaming UI with spatial audio visuals.
 
 
-*© 2025 Ragesh. Crafted with obsession. All rights reserved.*
+*© 2025 Arbaaz. Crafted with obsession. All rights reserved.*
